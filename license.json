@@ -1,19 +1,2 @@
 {
-  "satine": {
-    "hwid": "d94a3733188d4a3499a946d61d7a4a08e8d4ab93",
-    "expiry": 1715462400
-  },
-  "user2": {
-    "hwid": "HWID_EXAMPLE_67890",
-    "expiry": 1721040000
-  },
-  "sas": {
-    "hwid": "sdjwjdw",
-    "expiry": 1912638098
-  },
-  "user11": {
-    "register": "11 Aug 2024",
-    "hwid": "jskadj",
-    "expiry": 1912638098
-  }
 }
