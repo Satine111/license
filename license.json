@@ -1,25 +1,3 @@
 {
-  "12345": {
-    "register": "11 Aug 2024",
-    "expiry": 1912611600
-  },
-  "1234567": {
-    "register": "11 Aug 2024",
-    "hwid": "1234567",
-    "expiry": 1912611600
-  },
-  "satine": {
-    "register": "11 Aug 2024",
-    "hwid": "d94a3733188d4a3499a946d61d7a4a08e8d4ab93",
-    "expiry": 1912638098
-  },
-  "userid": {
-    "register": "11 Aug 2024",
-    "expiry": 1899392400
-  },
-  "i2932j2": {
-    "userid": "i2932j2",
-    "register": "11 Aug 2024",
-    "exp": 1920301200
-  }
+
 }
